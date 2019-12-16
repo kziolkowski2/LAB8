@@ -1,0 +1,1 @@
+for %%I in (c:\Users\kziolkowski2\Desktop\*) do @echo %%I
